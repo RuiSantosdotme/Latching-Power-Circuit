@@ -1,7 +1,7 @@
 /*********
   Author: Rui Santos
 
-  Complete project details at https://RandomNerdTutorials.com/latching-power-circuit/
+  Complete project details at https://RandomNerdTutorials.com/power-saving-latching-circuit/
 
   Permission is hereby granted, free of charge, to any person obtaining 
   a copy of this software and associated documentation files.
