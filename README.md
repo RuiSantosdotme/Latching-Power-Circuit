@@ -11,6 +11,6 @@ How to browse the GitHub repository:
 - [Schematic Diagram](https://raw.githubusercontent.com/RuiSantosdotme/Latching-Power-Circuit/master/Images/Latching-Power-Circuit-Schematic.jpg)
 - [Gerber Files](https://github.com/RuiSantosdotme/Latching-Power-Circuit/blob/master/Schematics/Gerber_Auto_Power_Off_Circuit_RandomNerdTutorials_20191009135729.zip?raw=true)
 - [EasyEDA project files to edit the PCB](https://github.com/RuiSantosdotme/Latching-Power-Circuit/blob/master/Schematics/Project_Auto_Power_Off_Circuit_RandomNerdTutorials_20191017093635.zip?raw=true)
-- [Click here to download all the files](https://github.com/RuiSantosdotme/Latching-Power-Circuit/archive/master.zip)
+- [**Click here to download all the files**](https://github.com/RuiSantosdotme/Latching-Power-Circuit/archive/master.zip)
 
 [![Project Image](https://raw.githubusercontent.com/RuiSantosdotme/Latching-Power-Circuit/master/Images/Latching-Power-Circuit-Project-Overview.png)](https://RandomNerdTutorials.com/power-saving-latching-power-circuit/)
